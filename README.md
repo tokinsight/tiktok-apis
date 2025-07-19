@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-TokInsight is a powerful TikTok API platform that provides comprehensive data insights and original data for TikTok content creators, marketers, and businesses. Our platform offers real-time access to TikTok's vast data ecosystem through a robust REST API. Including **Profile**, **Device**, **Video**, **Music**, **Comment**, **Hashtag**, **Collection(Mix)**, **Trending**, **Search**, **Live**, **Shop**, **Place**, **Effect**, etc. 
+TokInsight is a powerful TikTok API platform that provides comprehensive data insights and original data for TikTok content creators, marketers, and businesses. Our platform offers real-time access to TikTok's vast data ecosystem through a robust REST API. Including **Profile**, **Device**, **Video**, **Music**, **Comment**, **Hashtag**, **Collection(Mix)**, **Trending**, **Search**, **Live**, **Shop**, **Place**, **Effect**, etc.  **All apis are mobile versions**
 
 
 ## 📞 Contact Information
