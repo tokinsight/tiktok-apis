@@ -7,7 +7,7 @@ TokInsight is a powerful TikTok API platform that provides comprehensive data in
 
 ## 📞 Contact Information
 - **Email**: tokinsight@protonmail.com
-- **Discord**: https://discord.gg/CDPse7dYhh
+- **Discord**: https://discord.gg/PD3nEWkfhF
 - **All in One API Service**: https://rapidapi.com/tokinsight/api/tokinsight1
 - **Device API Service**: https://rapidapi.com/tokinsight/api/tiktok-device
 
