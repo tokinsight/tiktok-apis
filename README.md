@@ -23,7 +23,7 @@ TokInsight is a powerful TikTok API platform that provides comprehensive data in
 - **[How to Scrape TikTok Video Comment via TokInsight API](https://dev.to/tokinsight/how-to-scrape-tiktok-video-comment-via-tokinsight-api-4cb4)**
 - **[How to Scrape TikTok Hashtag/Challenge via TokInsight API](https://dev.to/tokinsight/how-to-scrape-tiktok-hashtagchallenge-via-tokinsight-api-in6)**
 - **[How to Scrape TikTok User Video Collection via TokInsight API](https://dev.to/tokinsight/how-to-scrape-tiktok-user-video-collection-via-tokinsight-api-dij)**
-
+- **[How to Scrape TikTok Live/Webcast Room Data via TokInsight API](https://dev.to/tokinsight/how-to-scrape-tiktok-livewebcast-room-data-via-tokinsight-api-56jl)**
 
 ## ✨ Key Features
 
@@ -41,5 +41,4 @@ TokInsight is a powerful TikTok API platform that provides comprehensive data in
 
 
 ### **Coming Soon**
-- 🔄 support of live
 - 🔄 support of shopping
